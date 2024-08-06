@@ -5,7 +5,7 @@ This is a simple FastAPI application with two endpoints to call on openai and th
 
 # Instructions
 
-To run the script, you will need a .env file with the correct PI keys and Lunary information. A sample .env file is shown below
+To run the script, you will need a .env file with the correct API keys and Lunary information. A sample .env file is shown below
 
 ```
 OPENAI_API_KEY=...
