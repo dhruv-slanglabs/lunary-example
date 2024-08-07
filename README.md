@@ -18,6 +18,6 @@ Here, I use a self hosted version of lunary, with the server running on port 333
 To self host lunary, follow the instructions here: https://github.com/lunary-ai/lunary
 
 
-To run the server, type the following into the terminal:
+Run the server via:
 `uvicorn main:app --host 0.0.0.0 --port 4000 --reload`
-Here I use port 4000 because the default port 8080 was being used by lunary's frontend
+Port 4000 is used in this case because the default port 8080 was being used by lunary's frontend
