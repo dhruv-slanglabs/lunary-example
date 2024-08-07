@@ -1,0 +1,6 @@
+openai
+lunary
+fastapi
+google-generativeai
+python-dotenv
+uvicorn
