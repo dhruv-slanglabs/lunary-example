@@ -14,7 +14,7 @@ LUNARY_PUBLIC_KEY=...
 LUNARY_API_URL=http://localhost:3333
 LUNARY_VERBOSE=True #for debugging
 ```
-Here, I use a self hosted version of lunary, with the server running on port 3333.
+This example uses a self hosted version of lunary, with the server running on port 3333.
 To self host lunary, follow the instructions here: https://github.com/lunary-ai/lunary
 
 
